@@ -1,3 +1,5 @@
+# Ankle Joint Stiffness, Dynamic Stability, and EMG During Obstacle Crossing (Dominant vs. Non-dominant Limb)
+
 This repository provides the data and analysis materials used in our study on ankle joint stiffness, dynamic stability, and EMG outcomes during obstacle crossing, comparing dominant and non-dominant limbs.
 
 The repository includes:
@@ -9,8 +11,6 @@ The repository includes:
 
 ## Repository Structure
 
-```text
-.
 ├─ c3d files/
 │  ├─ SUBJ_01/   (21 C3D files: 20 dynamic trials + 1 static calibration)
 │  ├─ SUBJ_02/
@@ -23,7 +23,6 @@ The repository includes:
 └─ v3d files/
    ├─ template/  (Visual3D model template)
    └─ *.v3s      (2 files: Visual3D pipeline command scripts)
-
 ---
 
 ## Data Description
@@ -97,3 +96,4 @@ This folder contains materials required to reproduce the outcome computations in
 > Tip: If your Visual3D workflow requires path remapping, update file paths after importing the data, then re-run the `.v3s` scripts.
 
 ---
+
