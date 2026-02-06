@@ -89,9 +89,6 @@ This folder contains materials required to reproduce the outcome computations in
    - Import the 20 dynamic trials.
 3. Load/apply the provided **template model** from `v3d files/template/`.
 4. Run the provided **pipeline command scripts** (`.v3s`) in `v3d files/` to compute:
-   - ankle joint stiffness
-   - dynamic stability metrics
-   - EMG-derived outcomes (from EMG.v1–EMG.v16 in the C3D analog channels)
 5. Export computed outcomes as needed for downstream statistics.
 
 > Tip: If your Visual3D workflow requires path remapping, update file paths after importing the data, then re-run the `.v3s` scripts.
