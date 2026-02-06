@@ -9,8 +9,19 @@ The repository includes:
 
 ## Repository Structure
 
-
-
+├─ c3d files/
+│ ├─ SUBJ_01/
+│ │ ├─ (21 C3D files: 20 dynamic trials + 1 static calibration)
+│ ├─ SUBJ_02/
+│ ├─ ...
+│ └─ SUBJ_08/
+│
+├─ spss results/
+│ ├─ *.spv (2 files: SPSS Viewer outputs)
+│
+└─ v3d files/
+├─ template/ (Visual3D model template)
+├─ *.v3s (2 files: Visual3D pipeline command scripts)
 
 ---
 
