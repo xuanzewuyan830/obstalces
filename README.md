@@ -9,8 +9,8 @@ The repository includes:
 
 ## Repository Structure
 
-## Repository Structure
-
+```text
+.
 ├─ c3d files/
 │  ├─ SUBJ_01/   (21 C3D files: 20 dynamic trials + 1 static calibration)
 │  ├─ SUBJ_02/
@@ -24,7 +24,6 @@ The repository includes:
    ├─ template/  (Visual3D model template)
    └─ *.v3s      (2 files: Visual3D pipeline command scripts)
 
----
 
 ## Data Description
 
