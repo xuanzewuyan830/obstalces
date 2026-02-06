@@ -1,6 +1,6 @@
 # Ankle Joint Stiffness, Margin of Stability, and EMG During Obstacle Crossing (Dominant vs. Non-dominant Limb)
 
-This repository provides the data and analysis materials used in our study on ankle joint stiffness, dynamic stability, and EMG outcomes during obstacle crossing, comparing dominant and non-dominant limbs.
+This repository provides the data and analysis materials used in our study on ankle joint stiffness, margin of stability, and EMG outcomes during obstacle crossing, comparing dominant and non-dominant limbs.
 
 The repository includes:
 - Raw **C3D** files for a de-identified subset of participants (**n = 8**).
